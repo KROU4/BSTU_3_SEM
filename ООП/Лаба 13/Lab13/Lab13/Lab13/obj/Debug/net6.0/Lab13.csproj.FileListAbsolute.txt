@@ -1,0 +1,39 @@
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.AssemblyReference.cache
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Interop.IASExtensionsLib.dll
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.ResolveComReference.cache
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfoInputs.cache
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfo.cs
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.CoreCompileInputs.cache
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.exe
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.deps.json
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.runtimeconfig.json
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.dll
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.pdb
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.CopyComplete
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.dll
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\refint\Lab13.dll
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.pdb
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.genruntimeconfig.cache
+D:\bstu_2course\Labs\OOP\Lab13\Lab13\Lab13\obj\Debug\net6.0\ref\Lab13.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\Lab13.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.AssemblyReference.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Interop.IASExtensionsLib.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.ResolveComReference.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.CopyComplete
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\refint\Lab13.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\Lab13.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 13\Lab13\Lab13\Lab13\obj\Debug\net6.0\ref\Lab13.dll

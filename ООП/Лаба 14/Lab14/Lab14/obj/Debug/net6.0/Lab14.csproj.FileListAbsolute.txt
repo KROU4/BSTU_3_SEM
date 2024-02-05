@@ -1,0 +1,33 @@
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\bin\Debug\net6.0\Lab14.exe
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\bin\Debug\net6.0\Lab14.deps.json
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\bin\Debug\net6.0\Lab14.runtimeconfig.json
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\bin\Debug\net6.0\Lab14.dll
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\bin\Debug\net6.0\Lab14.pdb
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.csproj.AssemblyReference.cache
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.GeneratedMSBuildEditorConfig.editorconfig
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.AssemblyInfoInputs.cache
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.AssemblyInfo.cs
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.csproj.CoreCompileInputs.cache
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.dll
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\refint\Lab14.dll
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.pdb
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.genruntimeconfig.cache
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\ref\Lab14.dll
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.Properties.Resources.resources
+D:\bstu_2course\Labs\OOP\Lab14\Lab14\Lab14\obj\Debug\net6.0\Lab14.csproj.GenerateResource.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\bin\Debug\net6.0\Lab14.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\bin\Debug\net6.0\Lab14.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\bin\Debug\net6.0\Lab14.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\bin\Debug\net6.0\Lab14.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\bin\Debug\net6.0\Lab14.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.Properties.Resources.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.csproj.GenerateResource.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\refint\Lab14.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\Lab14.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 14\Lab14\Lab14\obj\Debug\net6.0\ref\Lab14.dll

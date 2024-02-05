@@ -1,0 +1,18 @@
+Имя сборки: System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+Имеет публичные конструкторы: False
+Public methods:
+Все общедоступные публичные методы:
+Поля и свойства:
+Поля и свойства:
+Chars
+Length
+Empty
+Реализованные интерфейсы:
+- IComparable
+- IEnumerable
+- IConvertible
+- IEnumerable`1
+- IComparable`1
+- IEquatable`1
+- ICloneable
+Методы с параметром типа 'string':

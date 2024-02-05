@@ -1,0 +1,14 @@
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\bin\Debug\net6.0\лаба 8.exe
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\bin\Debug\net6.0\лаба 8.deps.json
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\bin\Debug\net6.0\лаба 8.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\bin\Debug\net6.0\лаба 8.dll
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\bin\Debug\net6.0\лаба 8.pdb
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.dll
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\refint\лаба 8.dll
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.pdb
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\лаба 8.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\Основы защиты информации\Лаба 8\лаба 8\obj\Debug\net6.0\ref\лаба 8.dll

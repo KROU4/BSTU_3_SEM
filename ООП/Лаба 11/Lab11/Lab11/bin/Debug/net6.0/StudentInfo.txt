@@ -1,0 +1,17 @@
+Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: False
+Public methods:
+Все общедоступные публичные методы:
+Поля и свойства:
+Поля и свойства:
+FirstName
+LastName
+MiddleName
+Address
+PhoneNumber
+Faculty
+Course
+Group
+Реализованные интерфейсы:
+- IStudent
+Методы с параметром типа 'string':

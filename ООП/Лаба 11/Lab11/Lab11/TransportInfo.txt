@@ -1,0 +1,17 @@
+Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Все общедоступные публичные методы:
+- get_Type
+- set_Type
+- get_Year
+- set_Year
+- IncreaseYear
+- ToString
+- Equals
+- GetHashCode
+- GetType
+Поля и свойства:
+- Type
+- Year
+Реализованных интерфейсов нет
+Нет методов с параметром 'birthage':

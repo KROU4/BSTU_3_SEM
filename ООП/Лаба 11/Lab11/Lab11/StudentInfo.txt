@@ -1,0 +1,33 @@
+Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Все общедоступные публичные методы:
+- get_FirstName
+- set_FirstName
+- get_LastName
+- get_MiddleName
+- get_Address
+- get_PhoneNumber
+- get_Faculty
+- get_Course
+- set_Course
+- get_Group
+- set_Group
+- CalculateAge
+- PrintInfo
+- Equals
+- ToString
+- GetType
+- GetHashCode
+Поля и свойства:
+- FirstName
+- LastName
+- MiddleName
+- Address
+- PhoneNumber
+- Faculty
+- Course
+- Group
+Реализованные интерфейсы:
+- IStudent
+Методы с параметром 'birthage':
+- CalculateAge

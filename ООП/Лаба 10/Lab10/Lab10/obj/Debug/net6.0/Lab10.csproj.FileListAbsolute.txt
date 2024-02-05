@@ -1,0 +1,29 @@
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\bin\Debug\net6.0\Lab10.exe
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\bin\Debug\net6.0\Lab10.deps.json
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\bin\Debug\net6.0\Lab10.runtimeconfig.json
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\bin\Debug\net6.0\Lab10.dll
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\bin\Debug\net6.0\Lab10.pdb
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.csproj.AssemblyReference.cache
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.AssemblyInfoInputs.cache
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.AssemblyInfo.cs
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.csproj.CoreCompileInputs.cache
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.dll
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\refint\Lab10.dll
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.pdb
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\Lab10.genruntimeconfig.cache
+D:\bstu_2course\Labs\OOP\Lab10\Lab10\Lab10\obj\Debug\net6.0\ref\Lab10.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\bin\Debug\net6.0\Lab10.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\bin\Debug\net6.0\Lab10.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\bin\Debug\net6.0\Lab10.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\bin\Debug\net6.0\Lab10.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\bin\Debug\net6.0\Lab10.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\refint\Lab10.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\Lab10.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 10\Lab10\Lab10\obj\Debug\net6.0\ref\Lab10.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLEFShXs/Br60PhMAscv8KD6Z763ZZ7z1ZvZWj/eWmuuTJRVdGHBEL9r42H8frkN96YUZSP9cp5uunvE9scUbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KROU4\\YandexDisk\\Уник\\ООП\\Лаба 12\\Lab12\\Lab12\\Lab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KROU4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\KROU4\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\KROU4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\KROU4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

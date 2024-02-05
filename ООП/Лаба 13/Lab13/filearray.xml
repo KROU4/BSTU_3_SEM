@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Type>Sedan</Type>
+    <Speed>100</Speed>
+    <CarEngine>
+      <Type>V6</Type>
+    </CarEngine>
+  </Car>
+  <Car>
+    <Type>BMW</Type>
+    <Speed>143</Speed>
+    <CarEngine>
+      <Type>K1</Type>
+    </CarEngine>
+  </Car>
+  <Car>
+    <Type>Lada</Type>
+    <Speed>234</Speed>
+    <CarEngine>
+      <Type>P7</Type>
+    </CarEngine>
+  </Car>
+  <Car>
+    <Type>Volkswagen</Type>
+    <Speed>123</Speed>
+    <CarEngine>
+      <Type>L12</Type>
+    </CarEngine>
+  </Car>
+  <Car>
+    <Type>Lamborghini</Type>
+    <Speed>234</Speed>
+    <CarEngine>
+      <Type>F32</Type>
+    </CarEngine>
+  </Car>
+</ArrayOfCar>

@@ -1,0 +1,34 @@
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.AssemblyReference.cache
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\bin\Debug\net6.0\Lab11.exe
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\bin\Debug\net6.0\Lab11.deps.json
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\bin\Debug\net6.0\Lab11.dll
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\bin\Debug\net6.0\Lab11.pdb
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CopyComplete
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.dll
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\refint\Lab11.dll
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.pdb
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
+D:\bstu_2course\Labs\OOP\Lab11\Lab11\Lab11\obj\Debug\net6.0\ref\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\bin\Debug\net6.0\Lab11.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\bin\Debug\net6.0\Lab11.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\bin\Debug\net6.0\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\bin\Debug\net6.0\Lab11.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.AssemblyReference.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CopyComplete
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\refint\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП\Лаба 11\Lab11\Lab11\obj\Debug\net6.0\ref\Lab11.dll
